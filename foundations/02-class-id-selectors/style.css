@@ -2,11 +2,11 @@
        font-family: "verdana", "Dejavu Sans", "sans-serif" ; 
      }
 
-.no2 {font-size: 36px;
+#no2 {font-size: 36px;
       color: #0000ff; 
      }
 
-.no4 {font-size: 30px;
+#no4 {font-size: 30px;
       background-color: #94eb9c;
       font-weight: bold;
      }  
